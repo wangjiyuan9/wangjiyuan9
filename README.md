@@ -8,6 +8,6 @@
 - 👀 I’m interested in computer vison, more about me: [LinkedIn](https://bjtu.edu.cn/)
 - ⚡ Python & Jupter & C++ & C & Matlab
 - ✏️ Pycharm & Vscode & Devc++
-- 💬 The beautiful scenery on a beautiful day, accompanied by friends, makes all the ups and downs, and the ideal is always ringing.
+- 💬 Amidst the beauty of the day, With friends to walk along the way, We face all challenges that come our way, And let our ideals ring out, day by day.
 
 <!-- <h6>* Badges by <a href="https://github.com/spencerwooo/Substats" target="_blank">Substats</a>. Card by <a href="https://github-readme-stats.vercel.app/" target="_blank">GitHub Readme Stats</a>.</h6> -->
