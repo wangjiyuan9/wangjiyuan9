@@ -7,7 +7,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats-blue-nu.vercel.app/api?username=wangjiyuan9&count_private=true&show_icons=true">](https://github.com/wangjiyuan9)
 
-- 👀 I’m interested in computer vison, more about me: [LinkedIn](https://www.linkedin.com/in/hihia)
+- 👀 I’m interested in computer vison, more about me: [LinkedIn](https://bjtu.edu.cn/)
 - ⚡ Python & Jupter & C++ & C & Matlab
 - ✏️ Pycharm & Vscode & Devc++
 - 💬 The beautiful scenery on a beautiful day, accompanied by friends, makes all the ups and downs, and the ideal is always ringing.
