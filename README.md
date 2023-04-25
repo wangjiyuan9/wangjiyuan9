@@ -5,8 +5,6 @@
 [![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198097035806&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198097035806)
 
 
-[<img align="right" width="50%" src="https://github-readme-stats-blue-nu.vercel.app/api?username=wangjiyuan9&count_private=true&show_icons=true">](https://github.com/wangjiyuan9)
-
 - 👀 I’m interested in computer vison, more about me: [LinkedIn](https://bjtu.edu.cn/)
 - ⚡ Python & Jupter & C++ & C & Matlab
 - ✏️ Pycharm & Vscode & Devc++
