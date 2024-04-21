@@ -5,7 +5,7 @@
 [![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198097035806&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198097035806)
 
 
-- 👀 I’m interested in computer vison, more about me: [LinkedIn](https://bjtu.edu.cn/)
+- 👀 I’m interested in computer vison, more about me: [My Offical page](https://wangjiyuan9.github.io/)
 - ⚡ Python & Jupter & C++ & C & Matlab
 - ✏️ Pycharm & Vscode & Devc++
 - 💬 Amidst the beauty of the day, With friends to walk along the way, We face all challenges that come our way, And let our ideals ring out, day by day.
