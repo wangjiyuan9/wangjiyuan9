@@ -2,8 +2,9 @@
 
 [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DYTGhost&longCache=true)](https://github.com/wangjiyuan9)
 [![wakatime](https://wakatime.com/badge/user/552abb88-3494-4f3e-8da5-4112560ce3b7.svg)](https://wakatime.com/@552abb88-3494-4f3e-8da5-4112560ce3b7)
-[![Steam](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fsteamgames%2F76561198097035806&query=count&color=0b1a37&label=Steam&labelColor=134375&logo=steam&suffix=+games&cacheSeconds=3600)](https://steamcommunity.com/profiles/76561198097035806)
-
+<center>
+	<img src="https://github-readme-stats.vercel.app/api?username=wangjiyuan9&show_icons=true" width="50%"/>
+</center>
 
 - 👀 I’m interested in computer vison, more about me: [My Offical page](https://wangjiyuan9.github.io/)
 - ⚡ Python & Jupter & C++ & C & Matlab
